@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://syt2.github.io/NASApod-PrivacyPolicy/sitemap.xml
